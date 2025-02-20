@@ -18,7 +18,7 @@ A secure daily task management program that stores data in a JSON file and encry
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
+git clone https://github.com/ZeyadGabr1/To_Do_Task_List_app.git
 cd REPO-NAME
 ```
 
