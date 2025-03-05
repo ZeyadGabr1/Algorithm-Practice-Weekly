@@ -28,15 +28,16 @@ class App:
 
         while True:
 
-            print("Options: ")
-            print("-" * 25)
+            print("-" * 30)
+            print("  Welcome To The Calculator ")
+            print("-" * 30)
 
             print("1. Add ")
             print("2. Subtract")
             print("3. Multiply")
             print("4. Divide")
             print("5. Exit")
-            print("-" * 25)
+            print("-" * 30)
 
             choice = input("Enter Your Choice From The Options (1 - 5): ")
 
